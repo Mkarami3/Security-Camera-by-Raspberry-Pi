@@ -2,11 +2,12 @@
 
 # Introduction
 Smart security camera sends email once a face is detected. One of its application is home safety.
+
+- OpenCV used for computer vision purpose
+- LibCurl used for mailing application
+- Qt used for GUI purpose
+
 Its UML is also provided
 
-# Installation
-Needs the Following Packages:
-
-OpenCV–> For computer vision purpose, -Libcurl–> For email notification
-Requirement
+# Hardware Requirements
 Raspberry Pi & USB Webcam
