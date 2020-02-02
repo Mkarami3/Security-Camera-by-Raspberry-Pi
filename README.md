@@ -7,7 +7,8 @@ Smart security camera sends email once a face is detected. One of its applicatio
 - LibCurl used for mailing application
 - Qt used for GUI purpose
 
-Its UML is also provided
-
 # Hardware Requirements
 Raspberry Pi & USB Webcam
+
+# UML
+![](Img/FinalUML.jpg)
